@@ -1,0 +1,15 @@
+C:\Users\25sutton0569\source\repos\Sutton_ClassFileFinal\Sutton_ClassFileFinal\bin\Debug\net6.0\Sutton_ClassFileFinal.exe
+C:\Users\25sutton0569\source\repos\Sutton_ClassFileFinal\Sutton_ClassFileFinal\bin\Debug\net6.0\Sutton_ClassFileFinal.deps.json
+C:\Users\25sutton0569\source\repos\Sutton_ClassFileFinal\Sutton_ClassFileFinal\bin\Debug\net6.0\Sutton_ClassFileFinal.runtimeconfig.json
+C:\Users\25sutton0569\source\repos\Sutton_ClassFileFinal\Sutton_ClassFileFinal\bin\Debug\net6.0\Sutton_ClassFileFinal.dll
+C:\Users\25sutton0569\source\repos\Sutton_ClassFileFinal\Sutton_ClassFileFinal\bin\Debug\net6.0\Sutton_ClassFileFinal.pdb
+C:\Users\25sutton0569\source\repos\Sutton_ClassFileFinal\Sutton_ClassFileFinal\obj\Debug\net6.0\Sutton_ClassFileFinal.csproj.AssemblyReference.cache
+C:\Users\25sutton0569\source\repos\Sutton_ClassFileFinal\Sutton_ClassFileFinal\obj\Debug\net6.0\Sutton_ClassFileFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25sutton0569\source\repos\Sutton_ClassFileFinal\Sutton_ClassFileFinal\obj\Debug\net6.0\Sutton_ClassFileFinal.AssemblyInfoInputs.cache
+C:\Users\25sutton0569\source\repos\Sutton_ClassFileFinal\Sutton_ClassFileFinal\obj\Debug\net6.0\Sutton_ClassFileFinal.AssemblyInfo.cs
+C:\Users\25sutton0569\source\repos\Sutton_ClassFileFinal\Sutton_ClassFileFinal\obj\Debug\net6.0\Sutton_ClassFileFinal.csproj.CoreCompileInputs.cache
+C:\Users\25sutton0569\source\repos\Sutton_ClassFileFinal\Sutton_ClassFileFinal\obj\Debug\net6.0\Sutton_ClassFileFinal.dll
+C:\Users\25sutton0569\source\repos\Sutton_ClassFileFinal\Sutton_ClassFileFinal\obj\Debug\net6.0\refint\Sutton_ClassFileFinal.dll
+C:\Users\25sutton0569\source\repos\Sutton_ClassFileFinal\Sutton_ClassFileFinal\obj\Debug\net6.0\Sutton_ClassFileFinal.pdb
+C:\Users\25sutton0569\source\repos\Sutton_ClassFileFinal\Sutton_ClassFileFinal\obj\Debug\net6.0\Sutton_ClassFileFinal.genruntimeconfig.cache
+C:\Users\25sutton0569\source\repos\Sutton_ClassFileFinal\Sutton_ClassFileFinal\obj\Debug\net6.0\ref\Sutton_ClassFileFinal.dll
